@@ -1,7 +1,7 @@
 # FantasyMaps
 Resources for constructing your own sweet sweet fantasy maps.
 
-Here is a walk-through in three themes...
+A walk-through in three themes...
 1) Mountainification: https://blogs.esri.com/esri/arcgis/2017/06/12/fantasy-maps-pt-1-mountainification/
 
 2) Scratchiness: https://blogs.esri.com/esri/arcgis/2017/06/16/fantasy-maps-pt-2-scratchiness/
@@ -10,11 +10,11 @@ Here is a walk-through in three themes...
 
 https://blogs.esri.com/esri/arcgis/2017/06/09/fantasy-book-illustration-maps-in-arcgis-pro/ 
 
-
+Project Download...
 Here is an ArcGIS Pro project, from which all maps in this series were derived:
 https://nation.maps.arcgis.com/home/item.html?id=cbb37c78aad7461a867496fa359da241
 
-
+Textures...
 If you are using a different system, you can use these image textures:
 Landcover Bin Photos: https://www.dropbox.com/s/eyxuxezdqejeskx/LandcoverTypePhotos.zip?dl=0
 
@@ -28,7 +28,7 @@ Graphite Landcover Elevation Images: https://www.dropbox.com/s/21u8vx3eblabx37/G
 
 Shaded Graphite Mountain Image: https://www.dropbox.com/s/j6hsqc45c1ym8ya/ShadedMountains.png?dl=0
 
-Source Data:
+Source Data...
 Vector coasts, admin polygons, and rivers: Project Linework, Moriarty Hand: http://www.projectlinework.org/
 
 Digital Elevation Models: NASA Visible Earth: https://visibleearth.nasa.gov/view.php?id=73934
