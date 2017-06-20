@@ -2,9 +2,9 @@
 Resources for constructing your own sweet sweet fantasy maps.
 
 Here is a walk-through in three themes...
-1) Mountainification
-2) Scratchiness
-3) Touchability
+1) Mountainification: https://blogs.esri.com/esri/arcgis/2017/06/12/fantasy-maps-pt-1-mountainification/
+2) Scratchiness: https://blogs.esri.com/esri/arcgis/2017/06/16/fantasy-maps-pt-2-scratchiness/
+3) Touchability: https://blogs.esri.com/esri/arcgis/2017/06/20/fantasy-maps-pt-3-touchability/
 
 https://blogs.esri.com/esri/arcgis/2017/06/09/fantasy-book-illustration-maps-in-arcgis-pro/ 
 
